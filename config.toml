@@ -3,6 +3,7 @@ baseurl = "http://spacemacs.brianthicks.com/"
 languageCode = "en-us"
 title = "Spacemacs Rocks"
 theme = "cactus"
+canonifyurls = true
 
 [params]
 	name = "Spacemacs Rocks"
