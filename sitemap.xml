@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://spacemacs.brianthicks.com/</loc>
+    <lastmod>2015-09-02T10:04:38-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://spacemacs.brianthicks.com/about/</loc>
+    <lastmod>2015-09-02T10:04:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://spacemacs.brianthicks.com/submit/</loc>
+    <lastmod>2015-09-02T10:04:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://spacemacs.brianthicks.com/posts/SPC-f-e-D-diff/</loc>
+    <lastmod>2015-09-01T10:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://spacemacs.brianthicks.com/posts/kmacro-edit-macro/</loc>
+    <lastmod>2015-08-27T10:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://spacemacs.brianthicks.com/posts/scratch-buffer/</loc>
+    <lastmod>2015-08-25T10:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://spacemacs.brianthicks.com/posts/SPC-f-e-h/</loc>
+    <lastmod>2015-08-20T10:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://spacemacs.brianthicks.com/posts/SPC-f-e-R/</loc>
+    <lastmod>2015-08-18T10:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://spacemacs.brianthicks.com/posts/SPC-h-l/</loc>
+    <lastmod>2015-08-13T10:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://spacemacs.brianthicks.com/posts/SPC-f-e-d/</loc>
+    <lastmod>2015-08-12T10:00:00-05:00</lastmod>
+  </url>
+  
+</urlset>
