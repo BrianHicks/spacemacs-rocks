@@ -1,31 +1,27 @@
 #!/usr/bin/env bash
+set -ex
 if [[ "$(git status --porcelain)" != "" ]]; then
     echo publish should only be run on a clean working directory
     exit 1
 fi
 
-./build.sh
+TEMP=$(mktemp -d -t spacemacs-rocks)
+hugo -d $TEMP
+MESSAGE="$(git show --abbrev-commit --oneline --no-patch) (update from master content)"
 
-MESSAGE="update from content: $(git show --abbrev-commit --oneline --no-patch)"
-
-# save in the git stash to move to the gh-pages branch
-git add -f public
-git stash save rendered
-git rm -rf public
-
+# move to gh-pages to place content
 git co gh-pages
-git stash pop # rendered
 
-# remove all the content to let public overwrite it
+# remove all the content to let the rendered replace it
 git ls-files | grep -v -e README.md -e .gitignore | xargs rm -rf
 find * -empty -type d -delete
 
-mv public/* .
-rmdir public
+mv ${TEMP}/* .
+rmdir $TEMP
 
 git add .
 git ci -m "$MESSAGE"
-git push origin gh-pages
+# git push origin gh-pages
 
-# restore the git index to how it was before the script ran
+# restore to master
 git co master
