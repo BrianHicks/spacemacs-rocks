@@ -11,4 +11,4 @@ To submit a tip, check out the
 and
 [open an issue on Github](https://github.com/BrianHicks/spacemacs-rocks/issues/new).
 If you're not on Github, [tweet at @brianhicks](https://twitter.com/brianhicks)
-or [email me](mailto://brian@brianthicks.com).
+or [email me](mailto:brian@brianthicks.com).
