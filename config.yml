@@ -6,7 +6,7 @@ theme: "cactus"
 canonifyurls: true
 
 permalinks:
-  posts: /:year/:month/:slug/
+  posts: /:year/:month/:day/:slug/
 
 params:
   name: "Spacemacs Rocks"
