@@ -14,7 +14,7 @@ MESSAGE="$(git show --abbrev-commit --oneline --no-patch) (update from master co
 git co gh-pages
 
 # remove all the content to let the rendered replace it
-git ls-files | grep -v -e README.md -e .gitignore | xargs rm -rf
+git ls-files | grep -v -e README.md -e .gitignore -e CNAME | xargs rm -rf
 find * -empty -type d -delete
 
 mv ${TEMP}/* .
