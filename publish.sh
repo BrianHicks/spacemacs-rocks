@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
-set -ex
+set -e
 if [[ "$(git status --porcelain)" != "" ]]; then
     echo publish should only be run on a clean working directory
     exit 1
 fi
 
 TEMP=$(mktemp -d -t spacemacs-rocks)
+git submodule update
 hugo -d $TEMP
 MESSAGE="$(git show --abbrev-commit --oneline --no-patch) (update from master content)"
 
