@@ -2,9 +2,7 @@
 date = "2015-08-12T10:00:00-05:00"
 description = "Use `SPC f e d` to get to your `.spacemacs` file quickly"
 title = "Go to your .spacemacs (or create one)"
-aliases = [
-  "/post/126527346916/go-to-your-spacemacs-or-create-one"
-]
+aliases = ["/post/126527346916/go-to-your-spacemacs-or-create-one"]
 +++
 From anywhere in Spacemacs, you can run `SPC f e d` and you'll get your
 `.spacemacs` file.
