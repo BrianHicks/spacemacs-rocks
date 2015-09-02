@@ -1,0 +1,37 @@
+# Site settings
+baseurl: "http://spacemacs.brianthicks.com/"
+languageCode: "en-us"
+title: "Spacemacs Rocks"
+theme: "cactus"
+canonifyurls: true
+
+permalinks:
+  posts: /:year/:month/:slug/
+
+params:
+  name: "Spacemacs Rocks"
+  description: "Spacemacs Tips and Tricks"
+  bio: "A Blog by Brian Hicks - New Tips Tuesdays + Thursdays"
+  # Enter optionally your twitter account
+  twitter: "brianhicks"
+  enableRSS: true
+
+  # The variables below are optionally too and can be used to
+  # translate or customize each string of the theme.
+
+  # Navigation links
+  home: ""
+  about: ""
+  subscribe: ""
+  # Pagination links
+  olderPosts: ""
+  newerPosts: ""
+  readMore: ""
+  copyright: ""
+  # Sharing options and author information in posts
+  aboutAuthor: "Brian Hicks"
+  tweet: "Tweet"
+  share: "Share"
+  # 404 page
+  title404: ""
+  subtitle404: ""
