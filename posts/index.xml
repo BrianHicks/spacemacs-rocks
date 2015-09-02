@@ -11,10 +11,10 @@
     
     <item>
       <title>Diff your .spacemacs after upgrades</title>
-      <link>http://spacemacs.brianthicks.com/2015/09/diff-your-.spacemacs-after-upgrades/</link>
+      <link>http://spacemacs.brianthicks.com/2015/09/01/diff-your-.spacemacs-after-upgrades/</link>
       <pubDate>Tue, 01 Sep 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/09/diff-your-.spacemacs-after-upgrades/</guid>
+      <guid>http://spacemacs.brianthicks.com/2015/09/01/diff-your-.spacemacs-after-upgrades/</guid>
       <description>&lt;p&gt;When you upgrade Spacemacs, keep your dotfile in sync by using
 &lt;code&gt;ediff-dotfile-and-template&lt;/code&gt; (&lt;code&gt;SPC f e D&lt;/code&gt;). This will enter an ediff session
 with the .spacemacs template and your personal .spacemacs. Use &lt;code&gt;n&lt;/code&gt; and &lt;code&gt;p&lt;/code&gt; to
@@ -28,10 +28,10 @@ move between regions and &lt;code&gt;a&lt;/code&gt;/&lt;code&gt;b&lt;/code&gt; t
     
     <item>
       <title>Edit a macro</title>
-      <link>http://spacemacs.brianthicks.com/2015/08/edit-a-macro/</link>
+      <link>http://spacemacs.brianthicks.com/2015/08/27/edit-a-macro/</link>
       <pubDate>Thu, 27 Aug 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/08/edit-a-macro/</guid>
+      <guid>http://spacemacs.brianthicks.com/2015/08/27/edit-a-macro/</guid>
       <description>&lt;p&gt;So you&amp;rsquo;ve recorded a macro and made a mistake? It&amp;rsquo;s OK, happens to everyone.
 Just use &lt;code&gt;kmacro-edit-macro&lt;/code&gt; to edit it (not bound in a Spacemacsy way by
 default, use &lt;code&gt;SPC :&lt;/code&gt; to search for it). Edit the macro that you&amp;rsquo;re interested in
@@ -46,10 +46,10 @@ and it &lt;code&gt;C-c C-c&lt;/code&gt; (control-c twice) to commit your changes
     
     <item>
       <title>Use the scratch buffer</title>
-      <link>http://spacemacs.brianthicks.com/2015/08/use-the-scratch-buffer/</link>
+      <link>http://spacemacs.brianthicks.com/2015/08/25/use-the-scratch-buffer/</link>
       <pubDate>Tue, 25 Aug 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/08/use-the-scratch-buffer/</guid>
+      <guid>http://spacemacs.brianthicks.com/2015/08/25/use-the-scratch-buffer/</guid>
       <description>&lt;p&gt;When you just want somewhere to put some text, there&amp;rsquo;s a built-in scratch buffer
 that starts up with every server session. Use &lt;code&gt;helm-mini&lt;/code&gt; (&lt;code&gt;SPC b b&lt;/code&gt;) to get to
 it.&lt;/p&gt;
@@ -61,10 +61,10 @@ it.&lt;/p&gt;
     
     <item>
       <title>Go to a .spacemacs variable with helm-spacemacs</title>
-      <link>http://spacemacs.brianthicks.com/2015/08/go-to-a-.spacemacs-variable-with-helm-spacemacs/</link>
+      <link>http://spacemacs.brianthicks.com/2015/08/20/go-to-a-.spacemacs-variable-with-helm-spacemacs/</link>
       <pubDate>Thu, 20 Aug 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/08/go-to-a-.spacemacs-variable-with-helm-spacemacs/</guid>
+      <guid>http://spacemacs.brianthicks.com/2015/08/20/go-to-a-.spacemacs-variable-with-helm-spacemacs/</guid>
       <description>&lt;p&gt;You can quickly go to any variable in your &lt;code&gt;.spacemacs&lt;/code&gt; by invoking
 &lt;code&gt;helm-spacemacs&lt;/code&gt; with &lt;code&gt;SPC f e h&lt;/code&gt;. In the example below, we navigate to
 &lt;code&gt;spacemacs-editing-style&lt;/code&gt; by searching for &amp;ldquo;style&amp;rdquo;. You can also use this tool
@@ -80,10 +80,10 @@ toggle options.&lt;/p&gt;
     
     <item>
       <title>Load changes to your .spacemacs without a restart</title>
-      <link>http://spacemacs.brianthicks.com/2015/08/load-changes-to-your-.spacemacs-without-a-restart/</link>
+      <link>http://spacemacs.brianthicks.com/2015/08/18/load-changes-to-your-.spacemacs-without-a-restart/</link>
       <pubDate>Tue, 18 Aug 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/08/load-changes-to-your-.spacemacs-without-a-restart/</guid>
+      <guid>http://spacemacs.brianthicks.com/2015/08/18/load-changes-to-your-.spacemacs-without-a-restart/</guid>
       <description>&lt;p&gt;When making changes to your &lt;code&gt;.spacemacs&lt;/code&gt;, you don&amp;rsquo;t have to restart to get the
 changes. Just hit &lt;code&gt;SPC f e R&lt;/code&gt; to reload. The gif below demonstrates adding the
 XKCD layer to the installation and using it right away.&lt;/p&gt;
@@ -97,10 +97,10 @@ XKCD layer to the installation and using it right away.&lt;/p&gt;
     
     <item>
       <title>Resume a helm session</title>
-      <link>http://spacemacs.brianthicks.com/2015/08/resume-a-helm-session/</link>
+      <link>http://spacemacs.brianthicks.com/2015/08/13/resume-a-helm-session/</link>
       <pubDate>Thu, 13 Aug 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/08/resume-a-helm-session/</guid>
+      <guid>http://spacemacs.brianthicks.com/2015/08/13/resume-a-helm-session/</guid>
       <description>&lt;p&gt;You can resume any helm session you like by hitting &lt;code&gt;SPC h l&lt;/code&gt; (think &amp;ldquo;&lt;strong&gt;h&lt;/strong&gt;elm
 &lt;strong&gt;l&lt;/strong&gt;ast&amp;rdquo;. The demonstration below shows searching for &amp;ldquo;eyebrowse&amp;rdquo; in the
 spacemacs source code, selecing results, and returning to the search results.&lt;/p&gt;
@@ -114,10 +114,10 @@ spacemacs source code, selecing results, and returning to the search results.&lt
     
     <item>
       <title>Go to your .spacemacs (or create one)</title>
-      <link>http://spacemacs.brianthicks.com/2015/08/go-to-your-.spacemacs-or-create-one/</link>
+      <link>http://spacemacs.brianthicks.com/2015/08/12/go-to-your-.spacemacs-or-create-one/</link>
       <pubDate>Wed, 12 Aug 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/08/go-to-your-.spacemacs-or-create-one/</guid>
+      <guid>http://spacemacs.brianthicks.com/2015/08/12/go-to-your-.spacemacs-or-create-one/</guid>
       <description>&lt;p&gt;From anywhere in Spacemacs, you can run &lt;code&gt;SPC f e d&lt;/code&gt; and you&amp;rsquo;ll get your
 &lt;code&gt;.spacemacs&lt;/code&gt; file.&lt;/p&gt;
 
