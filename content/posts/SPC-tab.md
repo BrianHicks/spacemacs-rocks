@@ -8,6 +8,6 @@ This tip basically does what it says on the tin. You can switch between the
 buffer you have open and the last one you focused on with
 `spacemacs/alternate-buffer` (`SPC <tab>`).
 
-{{< gfycat AgileEthicalChinticleer >}}
+{{< gfycat AgileEthicalChanticleer >}}
 
 Tip courtesy of [@deech](https://twitter.com/deech)
