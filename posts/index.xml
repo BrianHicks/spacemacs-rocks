@@ -6,8 +6,25 @@
     <description>Recent content in Posts on Spacemacs Rocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2015 10:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2015 10:00:00 -0500</lastBuildDate>
     <atom:link href="http://spacemacs.brianthicks.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Switch between open buffers</title>
+      <link>http://spacemacs.brianthicks.com/2015/09/03/switch-between-open-buffers/</link>
+      <pubDate>Thu, 03 Sep 2015 10:00:00 -0500</pubDate>
+      
+      <guid>http://spacemacs.brianthicks.com/2015/09/03/switch-between-open-buffers/</guid>
+      <description>&lt;p&gt;This tip basically does what it says on the tin. You can switch between the
+buffer you have open and the last one you focused on with
+&lt;code&gt;spacemacs/alternate-buffer&lt;/code&gt; (&lt;code&gt;SPC &amp;lt;tab&amp;gt;&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;AgileEthicalChinticleer&#34; &gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Tip courtesy of &lt;a href=&#34;https://twitter.com/deech&#34;&gt;@deech&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Diff your .spacemacs after upgrades</title>
