@@ -1,0 +1,6 @@
+---
+language: bash
+
+install: scripts/install.sh
+
+script: scripts/build_and_verify.sh
