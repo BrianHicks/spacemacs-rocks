@@ -13,6 +13,6 @@ script: scripts/build_and_verify.sh
 
 deploy:
   provider: script
-  script: env
+  script: scripts/deploy.sh
   on:
     branch: master
