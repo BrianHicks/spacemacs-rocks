@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -e
+set -ex
 if [[ "$(git status --porcelain)" != "" ]]; then
     echo publish should only be run on a clean working directory
     exit 1
@@ -22,7 +22,7 @@ mv ${TEMP}/* .
 rmdir $TEMP
 
 git add .
-git ci -m "$MESSAGE"
+git ci -m "$MESSAGE" || exit 2
 # git push origin gh-pages
 
 # restore to master
