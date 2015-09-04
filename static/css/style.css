@@ -650,12 +650,27 @@ code {
     border-top: 1px solid #eee;
     font-size: 13px;
 }
-.credit img {
+.credit img, .credit .twitter {
     width: 40px;
     height: 40px;
     float: left;
     margin-right: 20px;
     box-shadow: 0 0 0 3px #fff, 0 0 0 4px #eee
+}
+.credit .twitter {
+    background-color: #4fafed;
+    color: white;
+    border-radius: 3px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.credit .twitter:hover {
+	opacity: 0.8;
+	-webkit-transition: all 0.15s ease;
+	-moz-transition: all 0.15s ease;
+	-ms-transition: all 0.15s ease;
+	-o-transition: all 0.15s ease;
+	transition: all 0.15s ease;
 }
 .credit .attribution {
     font-weight: 500;
