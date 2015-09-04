@@ -82,8 +82,6 @@ move between regions and &lt;code&gt;a&lt;/code&gt;/&lt;code&gt;b&lt;/code&gt; t
 
 &lt;p&gt;
 
-&lt;div style=&#34;display: none&#34;&gt;map[id:355401 type:User public_gists:61 followers:17 avatar_url:https://avatars.githubusercontent.com/u/355401?v=3 gravatar_id: html_url:https://github.com/BrianHicks following_url:https://api.github.com/users/BrianHicks/following{/other_user} events_url:https://api.github.com/users/BrianHicks/events{/privacy} followers_url:https://api.github.com/users/BrianHicks/followers gists_url:https://api.github.com/users/BrianHicks/gists{/gist_id} subscriptions_url:https://api.github.com/users/BrianHicks/subscriptions site_admin:false updated_at:2015-09-02T14:45:23Z url:https://api.github.com/users/BrianHicks repos_url:https://api.github.com/users/BrianHicks/repos name:Brian Hicks bio:&amp;lt;nil&amp;gt; created_at:2010-08-05T17:01:22Z login:BrianHicks blog:https://www.brianthicks.com email:&amp;lt;nil&amp;gt; public_repos:59 following:27 organizations_url:https://api.github.com/users/BrianHicks/orgs hireable:&amp;lt;nil&amp;gt; starred_url:https://api.github.com/users/BrianHicks/starred{/owner}{/repo} received_events_url:https://api.github.com/users/BrianHicks/received_events company:Asteris, LLC location:St. Louis, MO]&lt;/div&gt;
-
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355401?v=3&amp;s=80&#34; alt=&#34;Brian Hicks&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;Brian Hicks&lt;/a&gt;. Thanks!&lt;/span&gt;
@@ -131,8 +129,6 @@ it.&lt;/p&gt;
 
 &lt;p&gt;
 
-&lt;div style=&#34;display: none&#34;&gt;map[received_events_url:https://api.github.com/users/BrianHicks/received_events name:Brian Hicks hireable:&amp;lt;nil&amp;gt; avatar_url:https://avatars.githubusercontent.com/u/355401?v=3 subscriptions_url:https://api.github.com/users/BrianHicks/subscriptions repos_url:https://api.github.com/users/BrianHicks/repos events_url:https://api.github.com/users/BrianHicks/events{/privacy} public_repos:59 location:St. Louis, MO email:&amp;lt;nil&amp;gt; followers:17 company:Asteris, LLC blog:https://www.brianthicks.com created_at:2010-08-05T17:01:22Z organizations_url:https://api.github.com/users/BrianHicks/orgs url:https://api.github.com/users/BrianHicks html_url:https://github.com/BrianHicks followers_url:https://api.github.com/users/BrianHicks/followers site_admin:false public_gists:61 following:27 updated_at:2015-09-02T14:45:23Z gravatar_id: following_url:https://api.github.com/users/BrianHicks/following{/other_user} gists_url:https://api.github.com/users/BrianHicks/gists{/gist_id} type:User bio:&amp;lt;nil&amp;gt; login:BrianHicks id:355401 starred_url:https://api.github.com/users/BrianHicks/starred{/owner}{/repo}]&lt;/div&gt;
-
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355401?v=3&amp;s=80&#34; alt=&#34;Brian Hicks&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;Brian Hicks&lt;/a&gt;. Thanks!&lt;/span&gt;
@@ -159,8 +155,6 @@ toggle options.&lt;/p&gt;
 
 &lt;p&gt;
 
-&lt;div style=&#34;display: none&#34;&gt;map[email:sylvain.benner@gmail.com following:69 login:syl20bnr starred_url:https://api.github.com/users/syl20bnr/starred{/owner}{/repo} type:User site_admin:false avatar_url:https://avatars.githubusercontent.com/u/1243537?v=3 following_url:https://api.github.com/users/syl20bnr/following{/other_user} subscriptions_url:https://api.github.com/users/syl20bnr/subscriptions name:Sylvain Benner hireable:true public_gists:21 followers_url:https://api.github.com/users/syl20bnr/followers company:&amp;lt;nil&amp;gt; created_at:2011-12-06T04:13:57Z gravatar_id: url:https://api.github.com/users/syl20bnr gists_url:https://api.github.com/users/syl20bnr/gists{/gist_id} blog:&amp;lt;nil&amp;gt; bio:&amp;lt;nil&amp;gt; id:1.243537e&amp;#43;06 organizations_url:https://api.github.com/users/syl20bnr/orgs public_repos:119 followers:140 updated_at:2015-08-02T04:54:14Z html_url:https://github.com/syl20bnr repos_url:https://api.github.com/users/syl20bnr/repos events_url:https://api.github.com/users/syl20bnr/events{/privacy} received_events_url:https://api.github.com/users/syl20bnr/received_events location:Quebec City, Canada]&lt;/div&gt;
-
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/1243537?v=3&amp;s=80&#34; alt=&#34;Sylvain Benner&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;Sylvain Benner&lt;/a&gt;. Thanks!&lt;/span&gt;
@@ -185,8 +179,6 @@ XKCD layer to the installation and using it right away.&lt;/p&gt;
 
 &lt;p&gt;
 
-&lt;div style=&#34;display: none&#34;&gt;map[hireable:&amp;lt;nil&amp;gt; updated_at:2015-04-27T17:38:44Z avatar_url:https://avatars.githubusercontent.com/u/355349?v=3 received_events_url:https://api.github.com/users/aaroncm/received_events name:Aaron Malone blog:http://munge.net public_repos:19 url:https://api.github.com/users/aaroncm following_url:https://api.github.com/users/aaroncm/following{/other_user} company:&amp;lt;nil&amp;gt; login:aaroncm location:Poplar Bluff, MO followers:3 starred_url:https://api.github.com/users/aaroncm/starred{/owner}{/repo} subscriptions_url:https://api.github.com/users/aaroncm/subscriptions site_admin:false email:aaron@munge.net public_gists:2 gravatar_id: html_url:https://github.com/aaroncm gists_url:https://api.github.com/users/aaroncm/gists{/gist_id} followers_url:https://api.github.com/users/aaroncm/followers following:1 repos_url:https://api.github.com/users/aaroncm/repos created_at:2010-08-05T16:04:11Z type:User bio:&amp;lt;nil&amp;gt; id:355349 organizations_url:https://api.github.com/users/aaroncm/orgs events_url:https://api.github.com/users/aaroncm/events{/privacy}]&lt;/div&gt;
-
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;http://munge.net&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355349?v=3&amp;s=80&#34; alt=&#34;Aaron Malone&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;http://munge.net&#34;&gt;Aaron Malone&lt;/a&gt;. Thanks!&lt;/span&gt;
@@ -210,8 +202,6 @@ spacemacs source code, selecing results, and returning to the search results.&lt
 &lt;/p&gt;
 
 &lt;p&gt;
-
-&lt;div style=&#34;display: none&#34;&gt;map[html_url:https://github.com/ryane followers_url:https://api.github.com/users/ryane/followers received_events_url:https://api.github.com/users/ryane/received_events hireable:true followers:8 updated_at:2015-09-03T21:29:53Z avatar_url:https://avatars.githubusercontent.com/u/7346?v=3 following_url:https://api.github.com/users/ryane/following{/other_user} location:Brooklyn, NY starred_url:https://api.github.com/users/ryane/starred{/owner}{/repo} organizations_url:https://api.github.com/users/ryane/orgs email:&amp;lt;nil&amp;gt; events_url:https://api.github.com/users/ryane/events{/privacy} name:Ryan Eschinger subscriptions_url:https://api.github.com/users/ryane/subscriptions type:User blog:http://ryaneschinger.com bio:&amp;lt;nil&amp;gt; public_repos:44 following:3 id:7346 gravatar_id: repos_url:https://api.github.com/users/ryane/repos site_admin:false created_at:2008-04-15T00:53:18Z company:&amp;lt;nil&amp;gt; public_gists:11 login:ryane url:https://api.github.com/users/ryane gists_url:https://api.github.com/users/ryane/gists{/gist_id}]&lt;/div&gt;
 
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;http://ryaneschinger.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/7346?v=3&amp;s=80&#34; alt=&#34;Ryan Eschinger&#34;&gt;&lt;/a&gt;
@@ -244,8 +234,6 @@ vc-follow-symlinks t)&lt;/code&gt; is one way to avoid the &amp;lsquo;y/n&amp;rs
 are using version control.&lt;/p&gt;
 
 &lt;p&gt;
-
-&lt;div style=&#34;display: none&#34;&gt;map[events_url:https://api.github.com/users/BrianHicks/events{/privacy} followers:17 html_url:https://github.com/BrianHicks gists_url:https://api.github.com/users/BrianHicks/gists{/gist_id} site_admin:false url:https://api.github.com/users/BrianHicks followers_url:https://api.github.com/users/BrianHicks/followers email:&amp;lt;nil&amp;gt; name:Brian Hicks company:Asteris, LLC location:St. Louis, MO hireable:&amp;lt;nil&amp;gt; public_repos:59 login:BrianHicks id:355401 type:User starred_url:https://api.github.com/users/BrianHicks/starred{/owner}{/repo} created_at:2010-08-05T17:01:22Z updated_at:2015-09-02T14:45:23Z avatar_url:https://avatars.githubusercontent.com/u/355401?v=3 gravatar_id: following_url:https://api.github.com/users/BrianHicks/following{/other_user} subscriptions_url:https://api.github.com/users/BrianHicks/subscriptions blog:https://www.brianthicks.com public_gists:61 organizations_url:https://api.github.com/users/BrianHicks/orgs repos_url:https://api.github.com/users/BrianHicks/repos received_events_url:https://api.github.com/users/BrianHicks/received_events bio:&amp;lt;nil&amp;gt; following:27]&lt;/div&gt;
 
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355401?v=3&amp;s=80&#34; alt=&#34;Brian Hicks&#34;&gt;&lt;/a&gt;
