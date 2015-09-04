@@ -1,7 +1,5 @@
 {{$user := getJSON "https://api.github.com/users/" (index .Params 0) "?client_id=" (getenv "GITHUB_ID") "&client_secret=" (getenv "GITHUB_SECRET")}}
 
-<div style="display: none">{{$user}}</div>
-
 <div class="credit">
     <a href="{{if $user.blog}}{{$user.blog}}{{else}}{{$user.html_url}}{{end}}"><img src="{{$user.avatar_url}}&s=80" alt="{{$user.name}}"></a>
     <span class="attribution">Tip from <a href="{{if $user.blog}}{{$user.blog}}{{else}}{{$user.html_url}}{{end}}">{{if $user.name}}{{$user.name}}{{else}}{{$user.login}}{{end}}</a>. Thanks!</span>
