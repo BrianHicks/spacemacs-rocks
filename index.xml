@@ -32,22 +32,6 @@ buffer you have open and the last one you focused on with
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://spacemacs.brianthicks.com/about/</link>
-      <pubDate>Wed, 02 Sep 2015 10:04:38 -0500</pubDate>
-      
-      <guid>http://spacemacs.brianthicks.com/about/</guid>
-      <description>&lt;p&gt;Spacemacs Rocks is a collection of tips for
-&lt;a href=&#34;https://github.com/syl20bnr/spacemacs&#34;&gt;Spacemacs&lt;/a&gt;, the wonderful editor kit for
-Emacs by &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;Sylvain Benner&lt;/a&gt;
-(&lt;a href=&#34;https://twitter.com/syl20bnr&#34;&gt;twitter&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Spacemacs Rocks is run by &lt;a href=&#34;https://github.com/BrianHicks&#34;&gt;Brian Hicks&lt;/a&gt;
-(&lt;a href=&#34;https://twitter.com/brianhicks&#34;&gt;twitter&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Submit a Tip</title>
       <link>http://spacemacs.brianthicks.com/submit/</link>
       <pubDate>Wed, 02 Sep 2015 10:04:38 -0500</pubDate>
@@ -62,6 +46,22 @@ and
 &lt;a href=&#34;https://github.com/BrianHicks/spacemacs-rocks/issues/new&#34;&gt;open an issue on Github&lt;/a&gt;.
 If you&amp;rsquo;re not on Github, &lt;a href=&#34;https://twitter.com/brianhicks&#34;&gt;tweet at @brianhicks&lt;/a&gt;
 or &lt;a href=&#34;mailto:brian@brianthicks.com&#34;&gt;email me&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://spacemacs.brianthicks.com/about/</link>
+      <pubDate>Wed, 02 Sep 2015 10:04:38 -0500</pubDate>
+      
+      <guid>http://spacemacs.brianthicks.com/about/</guid>
+      <description>&lt;p&gt;Spacemacs Rocks is a collection of tips for
+&lt;a href=&#34;https://github.com/syl20bnr/spacemacs&#34;&gt;Spacemacs&lt;/a&gt;, the wonderful editor kit for
+Emacs by &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;Sylvain Benner&lt;/a&gt;
+(&lt;a href=&#34;https://twitter.com/syl20bnr&#34;&gt;twitter&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Spacemacs Rocks is run by &lt;a href=&#34;https://github.com/BrianHicks&#34;&gt;Brian Hicks&lt;/a&gt;
+(&lt;a href=&#34;https://twitter.com/brianhicks&#34;&gt;twitter&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     
@@ -82,7 +82,7 @@ move between regions and &lt;code&gt;a&lt;/code&gt;/&lt;code&gt;b&lt;/code&gt; t
 
 &lt;p&gt;
 
-
+&lt;div style=&#34;display: none&#34;&gt;map[message:API rate limit exceeded for 52.0.240.122. (But here&amp;#39;s the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) documentation_url:https://developer.github.com/v3/#rate-limiting]&lt;/div&gt;
 
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;&#34;&gt;&lt;img src=&#34;&amp;s=80&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
@@ -131,7 +131,7 @@ it.&lt;/p&gt;
 
 &lt;p&gt;
 
-
+&lt;div style=&#34;display: none&#34;&gt;map[message:API rate limit exceeded for 52.0.240.122. (But here&amp;#39;s the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) documentation_url:https://developer.github.com/v3/#rate-limiting]&lt;/div&gt;
 
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;&#34;&gt;&lt;img src=&#34;&amp;s=80&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
@@ -159,7 +159,7 @@ toggle options.&lt;/p&gt;
 
 &lt;p&gt;
 
-
+&lt;div style=&#34;display: none&#34;&gt;map[documentation_url:https://developer.github.com/v3/#rate-limiting message:API rate limit exceeded for 52.0.240.122. (But here&amp;#39;s the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)]&lt;/div&gt;
 
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;&#34;&gt;&lt;img src=&#34;&amp;s=80&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
@@ -185,7 +185,7 @@ XKCD layer to the installation and using it right away.&lt;/p&gt;
 
 &lt;p&gt;
 
-
+&lt;div style=&#34;display: none&#34;&gt;map[message:API rate limit exceeded for 52.0.240.122. (But here&amp;#39;s the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) documentation_url:https://developer.github.com/v3/#rate-limiting]&lt;/div&gt;
 
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;&#34;&gt;&lt;img src=&#34;&amp;s=80&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
@@ -211,7 +211,7 @@ spacemacs source code, selecing results, and returning to the search results.&lt
 
 &lt;p&gt;
 
-
+&lt;div style=&#34;display: none&#34;&gt;map[message:API rate limit exceeded for 52.0.240.122. (But here&amp;#39;s the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) documentation_url:https://developer.github.com/v3/#rate-limiting]&lt;/div&gt;
 
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;&#34;&gt;&lt;img src=&#34;&amp;s=80&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
@@ -245,7 +245,7 @@ are using version control.&lt;/p&gt;
 
 &lt;p&gt;
 
-
+&lt;div style=&#34;display: none&#34;&gt;map[message:API rate limit exceeded for 52.0.240.122. (But here&amp;#39;s the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) documentation_url:https://developer.github.com/v3/#rate-limiting]&lt;/div&gt;
 
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;&#34;&gt;&lt;img src=&#34;&amp;s=80&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
