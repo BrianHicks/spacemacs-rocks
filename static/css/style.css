@@ -647,6 +647,7 @@ code {
 /* Extensions */
 .credit {
     padding-top: 40px;
+    margin-top: 40px;
     border-top: 1px solid #eee;
     font-size: 13px;
 }
@@ -665,12 +666,12 @@ code {
     padding-top: 10px;
 }
 .credit .twitter:hover {
-	opacity: 0.8;
-	-webkit-transition: all 0.15s ease;
-	-moz-transition: all 0.15s ease;
-	-ms-transition: all 0.15s ease;
-	-o-transition: all 0.15s ease;
-	transition: all 0.15s ease;
+    opacity: 0.8;
+    -webkit-transition: all 0.15s ease;
+    -moz-transition: all 0.15s ease;
+    -ms-transition: all 0.15s ease;
+    -o-transition: all 0.15s ease;
+    transition: all 0.15s ease;
 }
 .credit .attribution {
     font-weight: 500;
