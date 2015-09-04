@@ -11,4 +11,4 @@ and it `C-c C-c` (control-c twice) to commit your changes.
 
 {{< gfycat RawImpishAidi >}}
 
-Tip courtesy of [@deech](https://twitter.com/deech)
+{{< twitterCredit deech >}}

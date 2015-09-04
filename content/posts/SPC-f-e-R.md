@@ -10,4 +10,4 @@ XKCD layer to the installation and using it right away.
 
 {{< gfycat MediocreUntidyIndianpangolin >}}
 
-Tip courtesy of [AaronM](https://twitter.com/AaronM)
+{{< githubCredit AaronCM >}}

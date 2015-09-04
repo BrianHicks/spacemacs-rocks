@@ -9,3 +9,5 @@ that starts up with every server session. Use `helm-mini` (`SPC b b`) to get to
 it.
 
 {{< gfycat AggressiveHelpfulAnole >}}
+
+{{< githubCredit BrianHicks >}}

@@ -10,4 +10,4 @@ spacemacs source code, selecing results, and returning to the search results.
 
 {{< gfycat SpiritedSpanishLacewing >}}
 
-Tip courtesy of [Ryan Eschinger](https://twitter.com/ryanesc)
+{{< githubCredit ryane >}}

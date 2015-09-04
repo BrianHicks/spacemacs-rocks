@@ -11,3 +11,5 @@ move between regions and `a`/`b` to copy changes from the template to your
 .spacemacs. When you're done, quit and save the changes with `q`.
 
 {{< gfycat FaintSinfulBluewhale >}}
+
+{{< githubCredit BrianHicks >}}

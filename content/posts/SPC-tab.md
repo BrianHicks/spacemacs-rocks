@@ -10,4 +10,4 @@ buffer you have open and the last one you focused on with
 
 {{< gfycat AgileEthicalChanticleer >}}
 
-Tip courtesy of [@deech](https://twitter.com/deech)
+{{< twitterCredit deech >}}

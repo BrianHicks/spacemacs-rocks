@@ -20,3 +20,5 @@ eyebrowse layer installed):
 Any other key exits the micro-state.
 
 {{< gfycat HauntingLividAztecant >}}
+
+{{< githubCredit BrianHicks >}}

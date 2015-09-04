@@ -12,4 +12,4 @@ toggle options.
 
 {{< gfycat SparseCreepyDevilfish >}}
 
-Tip courtesy of [Sylvain Benner](https://twitter.com/syl20bnr) (the creator of Spacemacs, in the flesh!)
+{{< githubCredit syl20bnr >}}

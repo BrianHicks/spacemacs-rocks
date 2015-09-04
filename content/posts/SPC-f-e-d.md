@@ -17,3 +17,5 @@ you want to edit that file instead, but the prompt sometimes get hidden. Hit
 **Update** from [Swaroop](https://twitter.com/swaroopch): `(setq
 vc-follow-symlinks t)` is one way to avoid the &lsquo;y/n&rsquo; prompt if you
 are using version control.
+
+{{< githubCredit BrianHicks >}}
