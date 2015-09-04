@@ -2,6 +2,6 @@
 
 <div class="credit">
     <a href="{{if $user.blog}}{{$user.blog}}{{else}}{{$user.html_url}}{{end}}"><img src="{{$user.avatar_url}}&s=80" alt="{{$user.name}}"></a>
-    <span class="attribution">Tip from <a href="{{if $user.blog}}{{$user.blog}}{{else}}{{$user.html_url}}{{end}}">{{$user.name}}</a>. Thanks!</span>
+    <span class="attribution">Tip from <a href="{{if $user.blog}}{{$user.blog}}{{else}}{{$user.html_url}}{{end}}">{{if $user.name}}{{$user.name}}{{else}}{{$user.login}}{{end}}</a>. Thanks!</span>
     <p>If you've got a tip you'd like to see here, <a href="{{relref . "submit.md"}}">submit it</a>.</p>
 </div>
