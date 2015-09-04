@@ -643,3 +643,20 @@ code {
 	.post h1 { font-size:24px; }
 	.post h2 { font-size:20px; }
 }
+
+/* Extensions */
+.credit {
+    padding-top: 40px;
+    border-top: 1px solid #eee;
+    font-size: 13px;
+}
+.credit img {
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-right: 20px;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 4px #eee
+}
+.credit .attribution {
+    font-weight: 500;
+}
