@@ -7,7 +7,7 @@ fi
 
 TEMP=$(mktemp -d -t spacemacs-rocks.XXXX)
 git submodule update
-hugo -v -d $TEMP
+scripts/hugo.sh -d $TEMP
 MESSAGE="$(git show --abbrev-commit --oneline --no-patch) (update from master content)"
 
 # move to gh-pages to place content
