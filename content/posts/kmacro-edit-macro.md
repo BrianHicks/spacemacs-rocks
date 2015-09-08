@@ -11,4 +11,9 @@ and it `C-c C-c` (control-c twice) to commit your changes.
 
 {{< gfycat RawImpishAidi >}}
 
+**[Update](https://github.com/BrianHicks/spacemacs-rocks/issues/18) from
+[geo7](https://github.com/geo7)**: If one creates a macro using `q<char>` (as in
+Vim) then edits using the tip explained here, it will then have to be called
+using the standard emacs method of `f4`.
+
 {{< twitterCredit deech >}}
