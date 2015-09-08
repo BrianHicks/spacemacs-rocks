@@ -13,6 +13,13 @@ that part, or getting them scheduled. To make things easier, here's a template:
     Your tip goes here. Please include installation instructions if it's beyond
     installing a layer in the standard distribution.
 
+Just to emphasize: it looks much better on the site if I can credit you using
+your GitHub information. Plus, if you change it the next build of the site (they
+happen at least once every 24 hours) will pull in your new information, no PRs
+required! It ends up looking something like this:
+
+![credit](static/images/contribution-screenie.png)
+
 ## Typos and Comments
 
 If you see something wrong with a post, go ahead an open an issue. If you're
