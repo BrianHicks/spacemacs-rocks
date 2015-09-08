@@ -142,6 +142,11 @@ and it &lt;code&gt;C-c C-c&lt;/code&gt; (control-c twice) to commit your changes
 &lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;RawImpishAidi&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/BrianHicks/spacemacs-rocks/issues/18&#34;&gt;Update&lt;/a&gt; from
+&lt;a href=&#34;https://github.com/geo7&#34;&gt;geo7&lt;/a&gt;&lt;/strong&gt;: If one creates a macro using &lt;code&gt;q&amp;lt;char&amp;gt;&lt;/code&gt; (as in
+Vim) then edits using the tip explained here, it will then have to be called
+using the standard emacs method of &lt;code&gt;f4&lt;/code&gt;.&lt;/p&gt;
+
 &lt;p&gt;&lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;https://twitter.com/deech&#34;&gt;&lt;div class=&#34;twitter&#34;&gt;&lt;span class=&#34;icon-twitter&#34;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://twitter.com/deech&#34;&gt;deech&lt;/a&gt;. Thanks!&lt;/span&gt;
