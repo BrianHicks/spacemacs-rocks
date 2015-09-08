@@ -7,7 +7,7 @@
 		<meta name="author" content="Spacemacs Rocks">
 		<meta name="description" content="Spacemacs Tips and Tricks">
 		<meta name="generator" content="Hugo 0.14" />
-		<title>Diff your .spacemacs after upgrades &middot; Spacemacs Rocks</title>
+		<title>Manage multiple workspaces with eyebrowse &middot; Spacemacs Rocks</title>
 		<link rel="shortcut icon" href="http://spacemacs.brianthicks.com/images/favicon.ico">
 		<link rel="stylesheet" href="http://spacemacs.brianthicks.com/css/style.css">
 		<link rel="stylesheet" href="http://spacemacs.brianthicks.com/css/highlight.css">
@@ -37,17 +37,28 @@
         <section id="wrapper">
             <article class="post">
                 <header>
-                    <h1>Diff your .spacemacs after upgrades</h1>
-                    <h2 class="headline">September 1, 2015</h2>
+                    <h1>Manage multiple workspaces with eyebrowse</h1>
+                    <h2 class="headline">September 8, 2015</h2>
                 </header>
                 <section id="post-body">
-                    <p>When you upgrade Spacemacs, keep your dotfile in sync by using
-<code>ediff-dotfile-and-template</code> (<code>SPC f e D</code>). This will enter an ediff session
-with the .spacemacs template and your personal .spacemacs. Use <code>n</code> and <code>p</code> to
-move between regions and <code>a</code>/<code>b</code> to copy changes from the template to your
-.spacemacs. When you&rsquo;re done, quit and save the changes with <code>q</code>.</p>
+                    <p>If you&rsquo;re like me and work on a lot of projects withing one Emacs session, check
+out
+<a href="https://github.com/syl20bnr/spacemacs/tree/master/contrib/!window-management/eyebrowse">eyebrowse</a>.</p>
 
-<p><div class="gfyitem" data-title=true data-autoplay=true data-controls=true data-expand=true data-id="FaintSinfulBluewhale" ></div>
+<p>The commands under <code>spacemacs/workspaces-micro-state</code> (<code>SPC W</code>, with the
+eyebrowse layer installed):</p>
+
+<ul>
+<li>any number: go to or create a workspace</li>
+<li><code>n</code> or <code>p</code> go forward or back one workspace</li>
+<li><code>c</code> closes the current workspace</li>
+<li><code>tab</code> switches to the last workspace used (and back)</li>
+<li><code>r</code> sets a label for the current workspace</li>
+</ul>
+
+<p>Any other key exits the micro-state.</p>
+
+<p><div class="gfyitem" data-title=true data-autoplay=true data-controls=true data-expand=true data-id="HauntingLividAztecant" ></div>
 </p>
 
 <p>
@@ -70,7 +81,7 @@ move between regions and <code>a</code>/<code>b</code> to copy changes from the 
                         </div>
                     </a>
                 <section id="sharing">
-                    <a class="twitter" href="https://twitter.com/intent/tweet?text=http://spacemacs.brianthicks.com/http%3a%2f%2fspacemacs.brianthicks.com%2f2015%2f09%2f01%2fdiff-your-.spacemacs-after-upgrades%2f - Diff%20your%20.spacemacs%20after%20upgrades by @brianhicks"><span class="icon-twitter"> Tweet</span></a>
+                    <a class="twitter" href="https://twitter.com/intent/tweet?text=http://spacemacs.brianthicks.com/http%3a%2f%2fspacemacs.brianthicks.com%2f2015%2f09%2f08%2fmanage-multiple-workspaces-with-eyebrowse%2f - Manage%20multiple%20workspaces%20with%20eyebrowse by @brianhicks"><span class="icon-twitter"> Tweet</span></a>
 
 <a class="facebook" href="#" onclick="
     window.open(
@@ -88,10 +99,6 @@ move between regions and <code>a</code>/<code>b</code> to copy changes from the 
     <h3>Read more</h3>
     
     
-        
-        <li>
-            <a href="http://spacemacs.brianthicks.com/2015/09/08/manage-multiple-workspaces-with-eyebrowse/">Manage multiple workspaces with eyebrowse<aside class="dates">Sep 8</aside></a>
-        </li>
         
    
     
@@ -112,6 +119,10 @@ move between regions and <code>a</code>/<code>b</code> to copy changes from the 
         
    
     
+        
+        <li>
+            <a href="http://spacemacs.brianthicks.com/2015/09/01/diff-your-.spacemacs-after-upgrades/">Diff your .spacemacs after upgrades<aside class="dates">Sep 1</aside></a>
+        </li>
         
    
     

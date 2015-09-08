@@ -6,8 +6,45 @@
     <description>Recent content in Posts on Spacemacs Rocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2015 10:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2015 10:00:00 -0500</lastBuildDate>
     <atom:link href="http://spacemacs.brianthicks.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Manage multiple workspaces with eyebrowse</title>
+      <link>http://spacemacs.brianthicks.com/2015/09/08/manage-multiple-workspaces-with-eyebrowse/</link>
+      <pubDate>Tue, 08 Sep 2015 10:00:00 -0500</pubDate>
+      
+      <guid>http://spacemacs.brianthicks.com/2015/09/08/manage-multiple-workspaces-with-eyebrowse/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re like me and work on a lot of projects withing one Emacs session, check
+out
+&lt;a href=&#34;https://github.com/syl20bnr/spacemacs/tree/master/contrib/!window-management/eyebrowse&#34;&gt;eyebrowse&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The commands under &lt;code&gt;spacemacs/workspaces-micro-state&lt;/code&gt; (&lt;code&gt;SPC W&lt;/code&gt;, with the
+eyebrowse layer installed):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;any number: go to or create a workspace&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;n&lt;/code&gt; or &lt;code&gt;p&lt;/code&gt; go forward or back one workspace&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;c&lt;/code&gt; closes the current workspace&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;tab&lt;/code&gt; switches to the last workspace used (and back)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;r&lt;/code&gt; sets a label for the current workspace&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Any other key exits the micro-state.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;HauntingLividAztecant&#34; &gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;credit&#34;&gt;
+    &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355401?v=3&amp;s=80&#34; alt=&#34;Brian Hicks&#34;&gt;&lt;/a&gt;
+    &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;Brian Hicks&lt;/a&gt;. Thanks!&lt;/span&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Switch between open buffers</title>
