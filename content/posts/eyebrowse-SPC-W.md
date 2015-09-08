@@ -1,6 +1,6 @@
 +++
 date = "2015-09-08T10:00:00-05:00"
-publishdate = "2015-09-08T10:00:00-05:00"
+publishdate = "2015-09-08T00:00:00-05:00"
 description = "Use `SPC W` with eyebrowse installed"
 title = "Manage multiple workspaces with eyebrowse"
 +++
