@@ -102,6 +102,22 @@ buffer you have open and the last one you focused on with
     </item>
     
     <item>
+      <title>About</title>
+      <link>http://spacemacs.brianthicks.com/about/</link>
+      <pubDate>Wed, 02 Sep 2015 10:04:38 -0500</pubDate>
+      
+      <guid>http://spacemacs.brianthicks.com/about/</guid>
+      <description>&lt;p&gt;Spacemacs Rocks is a collection of tips for
+&lt;a href=&#34;https://github.com/syl20bnr/spacemacs&#34;&gt;Spacemacs&lt;/a&gt;, the wonderful editor kit for
+Emacs by &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;Sylvain Benner&lt;/a&gt;
+(&lt;a href=&#34;https://twitter.com/syl20bnr&#34;&gt;twitter&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Spacemacs Rocks is run by &lt;a href=&#34;https://github.com/BrianHicks&#34;&gt;Brian Hicks&lt;/a&gt;
+(&lt;a href=&#34;https://twitter.com/brianhicks&#34;&gt;twitter&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Submit a Tip</title>
       <link>http://spacemacs.brianthicks.com/submit/</link>
       <pubDate>Wed, 02 Sep 2015 10:04:38 -0500</pubDate>
@@ -128,22 +144,6 @@ you, so you get one of these:&lt;/p&gt;
     
 &lt;/figure&gt;
 &lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://spacemacs.brianthicks.com/about/</link>
-      <pubDate>Wed, 02 Sep 2015 10:04:38 -0500</pubDate>
-      
-      <guid>http://spacemacs.brianthicks.com/about/</guid>
-      <description>&lt;p&gt;Spacemacs Rocks is a collection of tips for
-&lt;a href=&#34;https://github.com/syl20bnr/spacemacs&#34;&gt;Spacemacs&lt;/a&gt;, the wonderful editor kit for
-Emacs by &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;Sylvain Benner&lt;/a&gt;
-(&lt;a href=&#34;https://twitter.com/syl20bnr&#34;&gt;twitter&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Spacemacs Rocks is run by &lt;a href=&#34;https://github.com/BrianHicks&#34;&gt;Brian Hicks&lt;/a&gt;
-(&lt;a href=&#34;https://twitter.com/brianhicks&#34;&gt;twitter&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     
