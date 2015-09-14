@@ -10,4 +10,8 @@ You can get back quickly with <code>SPC \`</code>
 
 {{< gfycat FaintThriftyAlligator >}}
 
+Note: as of this writing the function on this key is `evil-ace-jump-line-mode`,
+but it [will be changing](https://github.com/syl20bnr/spacemacs/pull/2574) to
+`avy-goto-line` in the next release.
+
 {{< githubCredit srid >}}
