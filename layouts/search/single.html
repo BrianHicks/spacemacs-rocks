@@ -1,0 +1,101 @@
+    {{ partial "head.html" . }}
+  <body>
+    {{ partial "nav.html" . }}
+    {{ partial "profile.html" . }}
+
+    <section id="wrapper" class="home">
+        <p>Search: <input id="search" type="text" /></p>
+        <p>Results:</p>
+        <ul id="results"></ul>
+
+        <script src="/js/vendor/lunr.min.js"></script>
+        <script>
+         function getSource() {
+             var pages = [];
+
+             {{range .Site.Pages}}
+             pages.push({
+                 "title": {{.Title}},
+                 "content": {{.Plain}},
+                 "href": {{.RelPermalink}}
+             })
+             {{end}}
+
+             return pages
+         }
+         function initLunr(pages) {
+             var idx = lunr(function() {
+                 this.field("title", {boost: 10});
+                 this.field("content");
+                 this.ref("href");
+             });
+
+             pages.forEach(function(page) {
+                 idx.add(page);
+             })
+
+             return idx
+         }
+
+         function search(idx, term, pages) {
+             return idx.search(term).map(function(result) {
+                 return pages.filter(function(page) {
+                     return page.href === result.ref;
+                 })[0];
+             });
+         }
+
+         function updateFromSearch(results, dest) {
+             dest.innerHTML = results.reduce(
+                 function(acc, page) {
+                     return acc + "<li><a href=\""+page.href+"\">"+page.title+"</a></li>"
+                 },
+                 ""
+             )
+         }
+
+         function doSearch(idx, term, pages, dest) {
+             var results = search(idx, term, pages);
+
+             if (results.length === 0) {
+                 dest.innerHTML = "No results.";
+                 return
+             }
+
+             updateFromSearch(results, dest)
+         }
+
+         function initUI(pages, idx) {
+             var results = document.getElementById("results"),
+                 search = document.getElementById("search");
+
+             search.addEventListener("input", function(e) {
+                 doSearch(idx, e.target.value, pages, results)
+             });
+         }
+
+         function getQueryStringValue (key) {
+             return unescape(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + escape(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
+         }
+
+         (function (pages) {
+             var lunr = initLunr(pages);
+
+             initUI(pages, lunr);
+
+             // set up initial search from querystring
+             var search = document.getElementById("search"),
+                 results = document.getElementById("results"),
+                 term = getQueryStringValue("q");
+
+             search.value = term;
+             doSearch(lunr, term, pages, results);
+         })(getSource())
+        </script>
+
+        {{ partial "footer.html" . }}
+    </section>
+
+    {{ partial "js.html" . }}
+    </body>
+</html>
