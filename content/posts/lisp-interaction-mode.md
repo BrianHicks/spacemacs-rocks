@@ -1,6 +1,6 @@
 +++
-date = "2015-09-22T00:00:00-05:00"
-publishdate = "2015-09-22T00:00:00-05:00"
+date = "2015-09-24T00:00:00-05:00"
+publishdate = "2015-09-24T00:00:00-05:00"
 description = "use the scratch buffer to try elisp snippets"
 title = "lisp-interaction-mode"
 +++
