@@ -13,7 +13,7 @@
   {{ end }}
 
   {{ if ne $url "search/" }}
-    <form action="search/" method="GET">
+    <form action="{{ .Site.BaseURL }}search/" method="GET">
         <input type="text" id="search" placeholder="Search" name="q" />
     </form>
   {{ end }}
