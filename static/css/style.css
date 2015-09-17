@@ -694,4 +694,15 @@ code {
     font-size: 1em;
     display: inline;
     font-size: 0.8em;
+    border: none;
+    width: 5em;
+    padding: 0.5em;
+
+    transition: width 0.5s ease;
+}
+
+.main-nav #search:focus {
+    width: 15em;
+
+    transition: width 0.5s ease;
 }
