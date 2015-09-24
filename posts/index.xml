@@ -6,8 +6,33 @@
     <description>Recent content in Posts on Spacemacs Rocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2015 00:00:00 -0500</lastBuildDate>
     <atom:link href="http://spacemacs.brianthicks.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>lisp-interaction-mode</title>
+      <link>http://spacemacs.brianthicks.com/2015/09/24/lisp-interaction-mode/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://spacemacs.brianthicks.com/2015/09/24/lisp-interaction-mode/</guid>
+      <description>&lt;p&gt;You can use the &lt;code&gt;*scratch*&lt;/code&gt; buffer to try out arbitrary bits of elisp. First,
+navigate to the scratch buffer. Then enter &lt;code&gt;lisp-interaction-mode&lt;/code&gt; using &lt;code&gt;SPC
+:&lt;/code&gt;. Then you&amp;rsquo;ll be in the right mode to whip up some lisp. To evaluate as in the
+demo, hit &lt;code&gt;C-x C-e&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;AnchoredAcademicAsianpiedstarling&#34; &gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;credit&#34;&gt;
+    &lt;a href=&#34;http://munge.net&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355349?v=3&amp;s=80&#34; alt=&#34;Aaron Malone&#34;&gt;&lt;/a&gt;
+    &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;http://munge.net&#34;&gt;Aaron Malone&lt;/a&gt;. Thanks!&lt;/span&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Navigate through flymake errors</title>
