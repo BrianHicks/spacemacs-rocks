@@ -1,5 +1,5 @@
 # Site settings
-baseurl: "http://spacemacs.brianthicks.com/"
+baseurl: "/"
 languageCode: "en-us"
 title: "Spacemacs Rocks"
 theme: "cactus"
