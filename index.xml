@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spacemacs Rocks</title>
-    <link>http://spacemacs.brianthicks.com/</link>
+    <link>/</link>
     <description>Recent content on Spacemacs Rocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Sep 2015 00:00:00 -0500</lastBuildDate>
-    <atom:link href="http://spacemacs.brianthicks.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>lisp-interaction-mode</title>
-      <link>http://spacemacs.brianthicks.com/2015/09/24/lisp-interaction-mode/</link>
+      <link>/2015/09/24/lisp-interaction-mode/</link>
       <pubDate>Thu, 24 Sep 2015 00:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/09/24/lisp-interaction-mode/</guid>
+      <guid>/2015/09/24/lisp-interaction-mode/</guid>
       <description>&lt;p&gt;You can use the &lt;code&gt;*scratch*&lt;/code&gt; buffer to try out arbitrary bits of elisp. First,
 navigate to the scratch buffer. Then enter &lt;code&gt;lisp-interaction-mode&lt;/code&gt; using &lt;code&gt;SPC
 :&lt;/code&gt;. Then you&amp;rsquo;ll be in the right mode to whip up some lisp. To evaluate as in the
@@ -28,7 +28,7 @@ demo, hit &lt;code&gt;C-x C-e&lt;/code&gt;.&lt;/p&gt;
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;http://munge.net&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355349?v=3&amp;s=80&#34; alt=&#34;Aaron Malone&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;http://munge.net&#34;&gt;Aaron Malone&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -36,10 +36,10 @@ demo, hit &lt;code&gt;C-x C-e&lt;/code&gt;.&lt;/p&gt;
     
     <item>
       <title>Navigate through flymake errors</title>
-      <link>http://spacemacs.brianthicks.com/2015/09/22/navigate-through-flymake-errors/</link>
+      <link>/2015/09/22/navigate-through-flymake-errors/</link>
       <pubDate>Tue, 22 Sep 2015 00:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/09/22/navigate-through-flymake-errors/</guid>
+      <guid>/2015/09/22/navigate-through-flymake-errors/</guid>
       <description>&lt;p&gt;Use &lt;code&gt;next-error&lt;/code&gt; (&lt;code&gt;SPC e n&lt;/code&gt;) and &lt;code&gt;previous-error&lt;/code&gt; (&lt;code&gt;SPC e p&lt;/code&gt;) to navigate to the
 next and previous flymake error in the current buffer.&lt;/p&gt;
 
@@ -51,7 +51,7 @@ next and previous flymake error in the current buffer.&lt;/p&gt;
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;http://ryaneschinger.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/7346?v=3&amp;s=80&#34; alt=&#34;Ryan Eschinger&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;http://ryaneschinger.com&#34;&gt;Ryan Eschinger&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -59,10 +59,10 @@ next and previous flymake error in the current buffer.&lt;/p&gt;
     
     <item>
       <title>Jump to any line in a buffer</title>
-      <link>http://spacemacs.brianthicks.com/2015/09/17/jump-to-any-line-in-a-buffer/</link>
+      <link>/2015/09/17/jump-to-any-line-in-a-buffer/</link>
       <pubDate>Thu, 17 Sep 2015 00:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/09/17/jump-to-any-line-in-a-buffer/</guid>
+      <guid>/2015/09/17/jump-to-any-line-in-a-buffer/</guid>
       <description>&lt;p&gt;You can jump to any line in a buffer with &lt;code&gt;evil-ace-jump-line-mode&lt;/code&gt; (&lt;code&gt;SPC l&lt;/code&gt;).
 Hit the shortcut and then the letter of a line in the popup and you&amp;rsquo;ll go there.
 You can get back quickly with &lt;code&gt;SPC `&lt;/code&gt;&lt;/p&gt;
@@ -79,7 +79,7 @@ but it &lt;a href=&#34;https://github.com/syl20bnr/spacemacs/pull/2574&#34;&gt;w
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;http://srid.ca/&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/3998?v=3&amp;s=80&#34; alt=&#34;Sridhar Ratnakumar&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;http://srid.ca/&#34;&gt;Sridhar Ratnakumar&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -87,10 +87,10 @@ but it &lt;a href=&#34;https://github.com/syl20bnr/spacemacs/pull/2574&#34;&gt;w
     
     <item>
       <title>Search within a buffer</title>
-      <link>http://spacemacs.brianthicks.com/2015/09/15/search-within-a-buffer/</link>
+      <link>/2015/09/15/search-within-a-buffer/</link>
       <pubDate>Tue, 15 Sep 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/09/15/search-within-a-buffer/</guid>
+      <guid>/2015/09/15/search-within-a-buffer/</guid>
       <description>&lt;p&gt;You can search through a buffer&amp;rsquo;s content pretty quickly with:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -107,7 +107,7 @@ within a specific meaning. Especially useful with &lt;code&gt;semantic-mode&lt;/
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;http://www.aligulac.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/619375?v=3&amp;s=80&#34; alt=&#34;Eivind Fonn&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;http://www.aligulac.com&#34;&gt;Eivind Fonn&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -115,10 +115,10 @@ within a specific meaning. Especially useful with &lt;code&gt;semantic-mode&lt;/
     
     <item>
       <title>Move around the startup screen quickly</title>
-      <link>http://spacemacs.brianthicks.com/2015/09/10/move-around-the-startup-screen-quickly/</link>
+      <link>/2015/09/10/move-around-the-startup-screen-quickly/</link>
       <pubDate>Thu, 10 Sep 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/09/10/move-around-the-startup-screen-quickly/</guid>
+      <guid>/2015/09/10/move-around-the-startup-screen-quickly/</guid>
       <description>&lt;p&gt;In the spacemacs startup screen there are a few useful key bindings:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -140,7 +140,7 @@ second file in &lt;code&gt;Recent files&lt;/code&gt; list you type &lt;code&gt;r
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;http://d12frosted.github.io&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/6507913?v=3&amp;s=80&#34; alt=&#34;Boris&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;http://d12frosted.github.io&#34;&gt;Boris&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -148,10 +148,10 @@ second file in &lt;code&gt;Recent files&lt;/code&gt; list you type &lt;code&gt;r
     
     <item>
       <title>Manage multiple workspaces with eyebrowse</title>
-      <link>http://spacemacs.brianthicks.com/2015/09/08/manage-multiple-workspaces-with-eyebrowse/</link>
+      <link>/2015/09/08/manage-multiple-workspaces-with-eyebrowse/</link>
       <pubDate>Tue, 08 Sep 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/09/08/manage-multiple-workspaces-with-eyebrowse/</guid>
+      <guid>/2015/09/08/manage-multiple-workspaces-with-eyebrowse/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re like me and work on a lot of projects withing one Emacs session, check
 out
 &lt;a href=&#34;https://github.com/syl20bnr/spacemacs/tree/master/contrib/!window-management/eyebrowse&#34;&gt;eyebrowse&lt;/a&gt;.&lt;/p&gt;
@@ -177,7 +177,7 @@ eyebrowse layer installed):&lt;/p&gt;
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355401?v=3&amp;s=80&#34; alt=&#34;Brian Hicks&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;Brian Hicks&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -185,10 +185,10 @@ eyebrowse layer installed):&lt;/p&gt;
     
     <item>
       <title>Switch between open buffers</title>
-      <link>http://spacemacs.brianthicks.com/2015/09/03/switch-between-open-buffers/</link>
+      <link>/2015/09/03/switch-between-open-buffers/</link>
       <pubDate>Thu, 03 Sep 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/09/03/switch-between-open-buffers/</guid>
+      <guid>/2015/09/03/switch-between-open-buffers/</guid>
       <description>&lt;p&gt;This tip basically does what it says on the tin. You can switch between the
 buffer you have open and the last one you focused on with
 &lt;code&gt;spacemacs/alternate-buffer&lt;/code&gt; (&lt;code&gt;SPC &amp;lt;tab&amp;gt;&lt;/code&gt;).&lt;/p&gt;
@@ -199,7 +199,7 @@ buffer you have open and the last one you focused on with
 &lt;p&gt;&lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;https://twitter.com/deech&#34;&gt;&lt;div class=&#34;twitter&#34;&gt;&lt;span class=&#34;icon-twitter&#34;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://twitter.com/deech&#34;&gt;deech&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -207,10 +207,10 @@ buffer you have open and the last one you focused on with
     
     <item>
       <title>About</title>
-      <link>http://spacemacs.brianthicks.com/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 02 Sep 2015 10:04:38 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;p&gt;Spacemacs Rocks is a collection of tips for
 &lt;a href=&#34;https://github.com/syl20bnr/spacemacs&#34;&gt;Spacemacs&lt;/a&gt;, the wonderful editor kit for
 Emacs by &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;Sylvain Benner&lt;/a&gt;
@@ -223,19 +223,19 @@ Emacs by &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;Sylvain Benner&lt;/
     
     <item>
       <title>Search</title>
-      <link>http://spacemacs.brianthicks.com/search/</link>
+      <link>/search/</link>
       <pubDate>Wed, 02 Sep 2015 10:04:38 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/search/</guid>
+      <guid>/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Submit a Tip</title>
-      <link>http://spacemacs.brianthicks.com/submit/</link>
+      <link>/submit/</link>
       <pubDate>Wed, 02 Sep 2015 10:04:38 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/submit/</guid>
+      <guid>/submit/</guid>
       <description>&lt;p&gt;Anything is welcome: keyboard shortcuts, extensions, novel bits of elisp that
 you use for a cool task, and on and on and on.&lt;/p&gt;
 
@@ -252,7 +252,7 @@ you, so you get one of these:&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://spacemacs.brianthicks.com/images/contribution-screenie.png&#34; /&gt;
+        &lt;img src=&#34;/images/contribution-screenie.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -262,10 +262,10 @@ you, so you get one of these:&lt;/p&gt;
     
     <item>
       <title>Diff your .spacemacs after upgrades</title>
-      <link>http://spacemacs.brianthicks.com/2015/09/01/diff-your-.spacemacs-after-upgrades/</link>
+      <link>/2015/09/01/diff-your-.spacemacs-after-upgrades/</link>
       <pubDate>Tue, 01 Sep 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/09/01/diff-your-.spacemacs-after-upgrades/</guid>
+      <guid>/2015/09/01/diff-your-.spacemacs-after-upgrades/</guid>
       <description>&lt;p&gt;When you upgrade Spacemacs, keep your dotfile in sync by using
 &lt;code&gt;ediff-dotfile-and-template&lt;/code&gt; (&lt;code&gt;SPC f e D&lt;/code&gt;). This will enter an ediff session
 with the .spacemacs template and your personal .spacemacs. Use &lt;code&gt;n&lt;/code&gt; and &lt;code&gt;p&lt;/code&gt; to
@@ -280,7 +280,7 @@ move between regions and &lt;code&gt;a&lt;/code&gt;/&lt;code&gt;b&lt;/code&gt; t
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355401?v=3&amp;s=80&#34; alt=&#34;Brian Hicks&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;Brian Hicks&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -288,10 +288,10 @@ move between regions and &lt;code&gt;a&lt;/code&gt;/&lt;code&gt;b&lt;/code&gt; t
     
     <item>
       <title>Edit a macro</title>
-      <link>http://spacemacs.brianthicks.com/2015/08/27/edit-a-macro/</link>
+      <link>/2015/08/27/edit-a-macro/</link>
       <pubDate>Thu, 27 Aug 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/08/27/edit-a-macro/</guid>
+      <guid>/2015/08/27/edit-a-macro/</guid>
       <description>&lt;p&gt;So you&amp;rsquo;ve recorded a macro and made a mistake? It&amp;rsquo;s OK, happens to everyone.
 Just use &lt;code&gt;kmacro-edit-macro&lt;/code&gt; to edit it (not bound in a Spacemacsy way by
 default, use &lt;code&gt;SPC :&lt;/code&gt; to search for it). Edit the macro that you&amp;rsquo;re interested in
@@ -308,7 +308,7 @@ using the standard emacs method of &lt;code&gt;f4&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;https://twitter.com/deech&#34;&gt;&lt;div class=&#34;twitter&#34;&gt;&lt;span class=&#34;icon-twitter&#34;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://twitter.com/deech&#34;&gt;deech&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -316,10 +316,10 @@ using the standard emacs method of &lt;code&gt;f4&lt;/code&gt;.&lt;/p&gt;
     
     <item>
       <title>Use the scratch buffer</title>
-      <link>http://spacemacs.brianthicks.com/2015/08/25/use-the-scratch-buffer/</link>
+      <link>/2015/08/25/use-the-scratch-buffer/</link>
       <pubDate>Tue, 25 Aug 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/08/25/use-the-scratch-buffer/</guid>
+      <guid>/2015/08/25/use-the-scratch-buffer/</guid>
       <description>&lt;p&gt;When you just want somewhere to put some text, there&amp;rsquo;s a built-in scratch buffer
 that starts up with every server session. Use &lt;code&gt;helm-mini&lt;/code&gt; (&lt;code&gt;SPC b b&lt;/code&gt;) to get to
 it.&lt;/p&gt;
@@ -332,7 +332,7 @@ it.&lt;/p&gt;
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355401?v=3&amp;s=80&#34; alt=&#34;Brian Hicks&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;Brian Hicks&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -340,10 +340,10 @@ it.&lt;/p&gt;
     
     <item>
       <title>Go to a .spacemacs variable with helm-spacemacs</title>
-      <link>http://spacemacs.brianthicks.com/2015/08/20/go-to-a-.spacemacs-variable-with-helm-spacemacs/</link>
+      <link>/2015/08/20/go-to-a-.spacemacs-variable-with-helm-spacemacs/</link>
       <pubDate>Thu, 20 Aug 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/08/20/go-to-a-.spacemacs-variable-with-helm-spacemacs/</guid>
+      <guid>/2015/08/20/go-to-a-.spacemacs-variable-with-helm-spacemacs/</guid>
       <description>&lt;p&gt;You can quickly go to any variable in your &lt;code&gt;.spacemacs&lt;/code&gt; by invoking
 &lt;code&gt;helm-spacemacs&lt;/code&gt; with &lt;code&gt;SPC f e h&lt;/code&gt;. In the example below, we navigate to
 &lt;code&gt;spacemacs-editing-style&lt;/code&gt; by searching for &amp;ldquo;style&amp;rdquo;. You can also use this tool
@@ -358,7 +358,7 @@ toggle options.&lt;/p&gt;
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/1243537?v=3&amp;s=80&#34; alt=&#34;Sylvain Benner&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;Sylvain Benner&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -366,10 +366,10 @@ toggle options.&lt;/p&gt;
     
     <item>
       <title>Load changes to your .spacemacs without a restart</title>
-      <link>http://spacemacs.brianthicks.com/2015/08/18/load-changes-to-your-.spacemacs-without-a-restart/</link>
+      <link>/2015/08/18/load-changes-to-your-.spacemacs-without-a-restart/</link>
       <pubDate>Tue, 18 Aug 2015 10:00:00 -0500</pubDate>
       
-      <guid>http://spacemacs.brianthicks.com/2015/08/18/load-changes-to-your-.spacemacs-without-a-restart/</guid>
+      <guid>/2015/08/18/load-changes-to-your-.spacemacs-without-a-restart/</guid>
       <description>&lt;p&gt;When making changes to your &lt;code&gt;.spacemacs&lt;/code&gt;, you don&amp;rsquo;t have to restart to get the
 changes. Just hit &lt;code&gt;SPC f e R&lt;/code&gt; to reload. The gif below demonstrates adding the
 XKCD layer to the installation and using it right away.&lt;/p&gt;
@@ -382,7 +382,7 @@ XKCD layer to the installation and using it right away.&lt;/p&gt;
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;http://munge.net&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355349?v=3&amp;s=80&#34; alt=&#34;Aaron Malone&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;http://munge.net&#34;&gt;Aaron Malone&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;http://spacemacs.brianthicks.com/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
