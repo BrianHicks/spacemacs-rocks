@@ -6,8 +6,36 @@
     <description>Recent content on Spacemacs Rocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2015 10:00:00 -0500</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Align multiple text items</title>
+      <link>/2015/10/01/align-multiple-text-items/</link>
+      <pubDate>Thu, 01 Oct 2015 10:00:00 -0500</pubDate>
+      
+      <guid>/2015/10/01/align-multiple-text-items/</guid>
+      <description>&lt;p&gt;Use the alignment shortcuts located under &lt;code&gt;SPC x a&lt;/code&gt; to align based on a number
+of different criteria (e.g. commas or pipes.) You can also use &lt;code&gt;align-repeat&lt;/code&gt;
+(&lt;code&gt;SPC x a r&lt;/code&gt;) to align on an arbitrary character.&lt;/p&gt;
+
+&lt;p&gt;The screencast below demonstrates the difference between aligning on an
+arbitrary character and aligning on one of the predefined characters. As you can
+see, you can choose which behavior you want!&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;WickedAppropriateKrill&#34; &gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;credit&#34;&gt;
+    &lt;a href=&#34;https://github.com/geo7&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/8526351?v=3&amp;s=80&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+    &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://github.com/geo7&#34;&gt;geo7&lt;/a&gt;. Thanks!&lt;/span&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Navigate the filesystem quickly</title>
@@ -360,32 +388,6 @@ it.&lt;/p&gt;
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355401?v=3&amp;s=80&#34; alt=&#34;Brian Hicks&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;Brian Hicks&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Go to a .spacemacs variable with helm-spacemacs</title>
-      <link>/2015/08/20/go-to-a-.spacemacs-variable-with-helm-spacemacs/</link>
-      <pubDate>Thu, 20 Aug 2015 10:00:00 -0500</pubDate>
-      
-      <guid>/2015/08/20/go-to-a-.spacemacs-variable-with-helm-spacemacs/</guid>
-      <description>&lt;p&gt;You can quickly go to any variable in your &lt;code&gt;.spacemacs&lt;/code&gt; by invoking
-&lt;code&gt;helm-spacemacs&lt;/code&gt; with &lt;code&gt;SPC f e h&lt;/code&gt;. In the example below, we navigate to
-&lt;code&gt;spacemacs-editing-style&lt;/code&gt; by searching for &amp;ldquo;style&amp;rdquo;. You can also use this tool
-to navigate to the READMEs for any layer, the spacemacs documentation, and
-toggle options.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;SparseCreepyDevilfish&#34; &gt;&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&#34;credit&#34;&gt;
-    &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/1243537?v=3&amp;s=80&#34; alt=&#34;Sylvain Benner&#34;&gt;&lt;/a&gt;
-    &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;Sylvain Benner&lt;/a&gt;. Thanks!&lt;/span&gt;
     &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
