@@ -2,7 +2,7 @@
 date = "2015-09-29T00:00:00-05:00"
 publishdate = "2015-09-29T00:00:00-05:00"
 description = "open `dired` with `SPC a d`"
-title = "Navigate the filesystem quickly"
+title = "Navigate the Filesystem Quickly"
 +++
 When you need to navigate around your filesystem quickly, hit `SPC a d` to open
 a `dired` buffer in a given directory (you'll be able to specify it.) Once

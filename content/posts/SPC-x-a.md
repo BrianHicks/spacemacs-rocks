@@ -2,7 +2,7 @@
 date = "2015-10-01T10:00:00-05:00"
 publishdate = "2015-10-01T00:00:00-05:00"
 description = "Align text with the `SPC x a` prefixes"
-title = "Align multiple text items"
+title = "Align Multiple Text Items"
 +++
 Use the alignment shortcuts located under `SPC x a` to align based on a number
 of different criteria (e.g. commas or pipes.) You can also use `align-repeat`
