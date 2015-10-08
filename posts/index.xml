@@ -6,8 +6,32 @@
     <description>Recent content in Posts on Spacemacs Rocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2015 00:00:00 -0500</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>View and Insert Items From Your Yank Ring</title>
+      <link>/2015/10/08/view-and-insert-items-from-your-yank-ring/</link>
+      <pubDate>Thu, 08 Oct 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/2015/10/08/view-and-insert-items-from-your-yank-ring/</guid>
+      <description>&lt;p&gt;Have you had something on your yank ring and then lost it? It&amp;rsquo;s still there. Hit
+&lt;code&gt;SPC r y&lt;/code&gt; (&lt;code&gt;helm-show-kill-ring&lt;/code&gt;) and you&amp;rsquo;ll be able to search and insert from
+your yank ring history.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;GiganticArcticHarlequinbug&#34; &gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;(and a bit of meta: this post&amp;rsquo;s screencast is the last post)&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;credit&#34;&gt;
+    &lt;a href=&#34;https://twitter.com/deech&#34;&gt;&lt;div class=&#34;twitter&#34;&gt;&lt;span class=&#34;icon-twitter&#34;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+    &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://twitter.com/deech&#34;&gt;deech&lt;/a&gt;. Thanks!&lt;/span&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Render a File to HTML</title>
@@ -382,30 +406,6 @@ toggle options.&lt;/p&gt;
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/1243537?v=3&amp;s=80&#34; alt=&#34;Sylvain Benner&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;Sylvain Benner&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Load changes to your .spacemacs without a restart</title>
-      <link>/2015/08/18/load-changes-to-your-.spacemacs-without-a-restart/</link>
-      <pubDate>Tue, 18 Aug 2015 10:00:00 -0500</pubDate>
-      
-      <guid>/2015/08/18/load-changes-to-your-.spacemacs-without-a-restart/</guid>
-      <description>&lt;p&gt;When making changes to your &lt;code&gt;.spacemacs&lt;/code&gt;, you don&amp;rsquo;t have to restart to get the
-changes. Just hit &lt;code&gt;SPC f e R&lt;/code&gt; to reload. The gif below demonstrates adding the
-XKCD layer to the installation and using it right away.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;MediocreUntidyIndianpangolin&#34; &gt;&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&#34;credit&#34;&gt;
-    &lt;a href=&#34;http://munge.net&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355349?v=3&amp;s=80&#34; alt=&#34;Aaron Malone&#34;&gt;&lt;/a&gt;
-    &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;http://munge.net&#34;&gt;Aaron Malone&lt;/a&gt;. Thanks!&lt;/span&gt;
     &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
