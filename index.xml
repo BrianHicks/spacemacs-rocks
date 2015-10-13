@@ -6,8 +6,32 @@
     <description>Recent content on Spacemacs Rocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2015 00:00:00 -0500</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Revisit Move History</title>
+      <link>/2015/10/13/revisit-move-history/</link>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/2015/10/13/revisit-move-history/</guid>
+      <description>&lt;p&gt;You can jump to previous cursor locations by hitting &lt;code&gt;C-o&lt;/code&gt;, and forward again by
+hitting &lt;code&gt;C-i&lt;/code&gt;. Useful for getting around large files or back to where you were
+just a second ago before a search!&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;IncredibleBlueGodwit&#34; &gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;credit&#34;&gt;
+    &lt;a href=&#34;https://github.com/bmag&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/4334375?v=3&amp;s=80&#34; alt=&#34;Bar&#34;&gt;&lt;/a&gt;
+    &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://github.com/bmag&#34;&gt;Bar&lt;/a&gt;. Thanks!&lt;/span&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>View and Insert Items From Your Yank Ring</title>
@@ -359,32 +383,6 @@ you, so you get one of these:&lt;/p&gt;
     
     
 &lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Diff your .spacemacs after upgrades</title>
-      <link>/2015/09/01/diff-your-.spacemacs-after-upgrades/</link>
-      <pubDate>Tue, 01 Sep 2015 10:00:00 -0500</pubDate>
-      
-      <guid>/2015/09/01/diff-your-.spacemacs-after-upgrades/</guid>
-      <description>&lt;p&gt;When you upgrade Spacemacs, keep your dotfile in sync by using
-&lt;code&gt;ediff-dotfile-and-template&lt;/code&gt; (&lt;code&gt;SPC f e D&lt;/code&gt;). This will enter an ediff session
-with the .spacemacs template and your personal .spacemacs. Use &lt;code&gt;n&lt;/code&gt; and &lt;code&gt;p&lt;/code&gt; to
-move between regions and &lt;code&gt;a&lt;/code&gt;/&lt;code&gt;b&lt;/code&gt; to copy changes from the template to your
-.spacemacs. When you&amp;rsquo;re done, quit and save the changes with &lt;code&gt;q&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;FaintSinfulBluewhale&#34; &gt;&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&#34;credit&#34;&gt;
-    &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355401?v=3&amp;s=80&#34; alt=&#34;Brian Hicks&#34;&gt;&lt;/a&gt;
-    &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;Brian Hicks&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
 &lt;/p&gt;
 </description>
     </item>
