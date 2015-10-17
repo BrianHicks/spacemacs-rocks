@@ -373,33 +373,12 @@ Emacs by &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;Sylvain Benner&lt;/
     </item>
     
     <item>
-      <title>Submit a Tip</title>
-      <link>/submit/</link>
+      <title>Search</title>
+      <link>/search/</link>
       <pubDate>Wed, 02 Sep 2015 10:04:38 -0500</pubDate>
       
-      <guid>/submit/</guid>
-      <description>&lt;p&gt;Anything is welcome: keyboard shortcuts, extensions, novel bits of elisp that
-you use for a cool task, and on and on and on.&lt;/p&gt;
-
-&lt;p&gt;To submit a tip, check out the
-&lt;a href=&#34;https://github.com/BrianHicks/spacemacs-rocks/blob/master/CONTRIBUTING.md&#34;&gt;contributing guide&lt;/a&gt;
-and
-&lt;a href=&#34;https://github.com/BrianHicks/spacemacs-rocks/issues/new&#34;&gt;open an issue on Github&lt;/a&gt;.
-If you&amp;rsquo;re not on Github, &lt;a href=&#34;https://twitter.com/brianhicks&#34;&gt;tweet at @brianhicks&lt;/a&gt;
-or &lt;a href=&#34;mailto:brian@brianthicks.com&#34;&gt;email me&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;You&amp;rsquo;ll be credited for your nice tip, even! Be sure to leave a way I can credit
-you, so you get one of these:&lt;/p&gt;
-
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/contribution-screenie.png&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
+      <guid>/search/</guid>
+      <description></description>
     </item>
     
   </channel>
