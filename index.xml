@@ -6,8 +6,36 @@
     <description>Recent content on Spacemacs Rocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2015 00:00:00 -0500</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Refocus Helm</title>
+      <link>/2015/10/20/refocus-helm/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/2015/10/20/refocus-helm/</guid>
+      <description>&lt;p&gt;Sometimes when Helm loses focus, it breaks a little bit (try clicking outside
+the helm buffer to see what I mean.) If this happens, you&amp;rsquo;ve got two options:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;start another helm session (which will kill the existing buffer)&lt;/li&gt;
+&lt;li&gt;use &lt;code&gt;switch-to-minibuffer-window&lt;/code&gt; (&lt;code&gt;SPC w b&lt;/code&gt;) to refocus your session&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;GregariousPleasingLadybird&#34; &gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;credit&#34;&gt;
+    &lt;a href=&#34;http://d12frosted.github.io&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/6507913?v=3&amp;s=80&#34; alt=&#34;Boris&#34;&gt;&lt;/a&gt;
+    &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;http://d12frosted.github.io&#34;&gt;Boris&lt;/a&gt;. Thanks!&lt;/span&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Start Vagrant</title>
@@ -357,49 +385,12 @@ buffer you have open and the last one you focused on with
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
+      <title>Search</title>
+      <link>/search/</link>
       <pubDate>Wed, 02 Sep 2015 10:04:38 -0500</pubDate>
       
-      <guid>/about/</guid>
-      <description>&lt;p&gt;Spacemacs Rocks is a collection of tips for
-&lt;a href=&#34;https://github.com/syl20bnr/spacemacs&#34;&gt;Spacemacs&lt;/a&gt;, the wonderful editor kit for
-Emacs by &lt;a href=&#34;https://github.com/syl20bnr&#34;&gt;Sylvain Benner&lt;/a&gt;
-(&lt;a href=&#34;https://twitter.com/syl20bnr&#34;&gt;twitter&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Spacemacs Rocks is run by &lt;a href=&#34;https://github.com/BrianHicks&#34;&gt;Brian Hicks&lt;/a&gt;
-(&lt;a href=&#34;https://twitter.com/brianhicks&#34;&gt;twitter&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Submit a Tip</title>
-      <link>/submit/</link>
-      <pubDate>Wed, 02 Sep 2015 10:04:38 -0500</pubDate>
-      
-      <guid>/submit/</guid>
-      <description>&lt;p&gt;Anything is welcome: keyboard shortcuts, extensions, novel bits of elisp that
-you use for a cool task, and on and on and on.&lt;/p&gt;
-
-&lt;p&gt;To submit a tip, check out the
-&lt;a href=&#34;https://github.com/BrianHicks/spacemacs-rocks/blob/master/CONTRIBUTING.md&#34;&gt;contributing guide&lt;/a&gt;
-and
-&lt;a href=&#34;https://github.com/BrianHicks/spacemacs-rocks/issues/new&#34;&gt;open an issue on Github&lt;/a&gt;.
-If you&amp;rsquo;re not on Github, &lt;a href=&#34;https://twitter.com/brianhicks&#34;&gt;tweet at @brianhicks&lt;/a&gt;
-or &lt;a href=&#34;mailto:brian@brianthicks.com&#34;&gt;email me&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;You&amp;rsquo;ll be credited for your nice tip, even! Be sure to leave a way I can credit
-you, so you get one of these:&lt;/p&gt;
-
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/contribution-screenie.png&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
+      <guid>/search/</guid>
+      <description></description>
     </item>
     
   </channel>

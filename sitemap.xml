@@ -3,8 +3,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2015-10-15T00:00:00-05:00</lastmod>
+    <lastmod>2015-10-20T00:00:00-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2015/10/20/refocus-helm/</loc>
+    <lastmod>2015-10-20T00:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -73,7 +78,7 @@
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/search/</loc>
     <lastmod>2015-09-02T10:04:38-05:00</lastmod>
   </url>
   
@@ -83,7 +88,7 @@
   </url>
   
   <url>
-    <loc>/search/</loc>
+    <loc>/about/</loc>
     <lastmod>2015-09-02T10:04:38-05:00</lastmod>
   </url>
   
