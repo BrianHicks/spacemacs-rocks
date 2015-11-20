@@ -1,6 +1,6 @@
 ---
-date: "2015-11-27T:00:00-05:00"
-publishdate: "2015-11-27T:00:00-05:00"
+date: "2015-11-24T:00:00-05:00"
+publishdate: "2015-11-24T:00:00-05:00"
 description: "set evil-move-cursor-back to nil"
 title: "Stop Cursor Creep"
 ---
