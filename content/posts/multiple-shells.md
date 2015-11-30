@@ -1,6 +1,6 @@
 ---
-date: "2015-11-26T:00:00-05:00"
-publishdate: "2015-11-26T:00:00-05:00"
+date: "2015-12-03T00:00:00-05:00"
+publishdate: "2015-12-03T00:00:00-05:00"
 description: "{n} SPC ' opens multiple shells"
 title: "Open Multiple Shells"
 ---
@@ -12,5 +12,3 @@ first `1 SPC '`.
 {{< gfycat AthleticConsciousBabirusa >}}
 
 {{< githubCredit BrianHicks >}}
-
-P.S.: Happy Thanksgiving to our U.S. readers!
