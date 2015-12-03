@@ -6,8 +6,32 @@
     <description>Recent content in Posts on Spacemacs Rocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 03 Dec 2015 00:00:00 -0500</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open Multiple Shells</title>
+      <link>/2015/12/03/open-multiple-shells/</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/2015/12/03/open-multiple-shells/</guid>
+      <description>&lt;p&gt;Once you have the &lt;code&gt;shell&lt;/code&gt; layer enabled, you can open multiple shells by using
+&lt;code&gt;{n} SPC &#39;&lt;/code&gt;. For example, to get the second, &lt;code&gt;2 SPC &#39;&lt;/code&gt;, and to go back to the
+first &lt;code&gt;1 SPC &#39;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;AthleticConsciousBabirusa&#34; &gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;credit&#34;&gt;
+    &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/355401?v=3&amp;s=80&#34; alt=&#34;Brian Hicks&#34;&gt;&lt;/a&gt;
+    &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://www.brianthicks.com&#34;&gt;Brian Hicks&lt;/a&gt;. Thanks!&lt;/span&gt;
+    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Stop Cursor Creep</title>
@@ -356,39 +380,6 @@ within a specific meaning. Especially useful with &lt;code&gt;semantic-mode&lt;/
 &lt;div class=&#34;credit&#34;&gt;
     &lt;a href=&#34;http://www.aligulac.com&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/619375?v=3&amp;s=80&#34; alt=&#34;Eivind Fonn&#34;&gt;&lt;/a&gt;
     &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;http://www.aligulac.com&#34;&gt;Eivind Fonn&lt;/a&gt;. Thanks!&lt;/span&gt;
-    &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Move around the startup screen quickly</title>
-      <link>/2015/09/10/move-around-the-startup-screen-quickly/</link>
-      <pubDate>Thu, 10 Sep 2015 10:00:00 -0500</pubDate>
-      
-      <guid>/2015/09/10/move-around-the-startup-screen-quickly/</guid>
-      <description>&lt;p&gt;In the spacemacs startup screen there are a few useful key bindings:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;tab&lt;/code&gt; (&lt;code&gt;widget-forward&lt;/code&gt;) - jump to next widget&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;backtab&lt;/code&gt; (&lt;code&gt;widget-backward&lt;/code&gt;) - jump to previous widget&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;r&lt;/code&gt; - jump to first widget under &lt;code&gt;Recent files&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;m&lt;/code&gt; - jump to first widget under &lt;code&gt;Bookmarks&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;p&lt;/code&gt; - jump to first widget under &lt;code&gt;Projects&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The last three are extremely helpful. So for example, if you want to open the
-second file in &lt;code&gt;Recent files&lt;/code&gt; list you type &lt;code&gt;r &amp;lt;tab&amp;gt; &amp;lt;return&amp;gt;&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;ImpeccableOldAmericanindianhorse&#34; &gt;&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&#34;credit&#34;&gt;
-    &lt;a href=&#34;https://github.com/d12frosted&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/6507913?v=3&amp;s=80&#34; alt=&#34;Boris&#34;&gt;&lt;/a&gt;
-    &lt;span class=&#34;attribution&#34;&gt;Tip from &lt;a href=&#34;https://github.com/d12frosted&#34;&gt;Boris&lt;/a&gt;. Thanks!&lt;/span&gt;
     &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
