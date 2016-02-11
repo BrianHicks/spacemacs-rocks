@@ -139,7 +139,9 @@ the helm buffer to see what I mean.) If this happens, you&amp;rsquo;ve got two o
       <guid>/2015/10/15/start-vagrant/</guid>
       <description>&lt;p&gt;If you need to run a Vagrant command quickly, check out the commands under &lt;code&gt;SPC
 V&lt;/code&gt;. They deal with most of the common commands needed when working with Vagrant
-boxes, including tramp SSH. Demonstrated below: &lt;code&gt;vagrant-up&lt;/code&gt; (&lt;code&gt;SPC V V&lt;/code&gt;)&lt;/p&gt;
+boxes, including tramp SSH. Demonstrated below: &lt;code&gt;vagrant-up&lt;/code&gt; (&lt;code&gt;SPC V V&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;You need to have the vagrant layer installed for this to work (&lt;a href=&#34;https://github.com/syl20bnr/spacemacs/tree/master/layers/+tools/vagrant&#34;&gt;https://github.com/syl20bnr/spacemacs/tree/master/layers/+tools/vagrant&lt;/a&gt;). Add &lt;code&gt;vagrant&lt;/code&gt; to the existing &lt;code&gt;dotspacemacs-configuration-layers&lt;/code&gt; list in your &lt;code&gt;~/.spacemacs&lt;/code&gt; file.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;KindElderlyDiscus&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
