@@ -19,7 +19,7 @@
 &lt;code&gt;{n} SPC &#39;&lt;/code&gt;. For example, to get the second, &lt;code&gt;2 SPC &#39;&lt;/code&gt;, and to go back to the
 first &lt;code&gt;1 SPC &#39;&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;AthleticConsciousBabirusa&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;AthleticConsciousBabirusa&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -43,7 +43,7 @@ first &lt;code&gt;1 SPC &#39;&lt;/code&gt;.&lt;/p&gt;
 Well, there&amp;rsquo;s a setting for that. Put &lt;code&gt;(setq evil-move-cursor-back nil)&lt;/code&gt; in your
 config, and it&amp;rsquo;ll stop doing that.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;WigglyHarmfulBittern&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;WigglyHarmfulBittern&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;credit&#34;&gt;
@@ -65,7 +65,7 @@ config, and it&amp;rsquo;ll stop doing that.&lt;/p&gt;
 (&lt;code&gt;spacemacs/helm-eshell-history&lt;/code&gt; or &lt;code&gt;spacemacs/helm-shell-history&lt;/code&gt;, depending on
 your configuration.)&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;ShadyElectricDorado&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;ShadyElectricDorado&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -89,7 +89,7 @@ your configuration.)&lt;/p&gt;
 &lt;code&gt;dotspacemacs-configuration-layers&lt;/code&gt;, and then run it with &lt;code&gt;deft&lt;/code&gt; (&lt;code&gt;SPC a n&lt;/code&gt;.)
 Type a note title, and hit enter to create it.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;LinedThickJerboa&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;LinedThickJerboa&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -117,7 +117,7 @@ the helm buffer to see what I mean.) If this happens, you&amp;rsquo;ve got two o
 &lt;li&gt;use &lt;code&gt;switch-to-minibuffer-window&lt;/code&gt; (&lt;code&gt;SPC w b&lt;/code&gt;) to refocus your session&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;GregariousPleasingLadybird&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;GregariousPleasingLadybird&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -143,7 +143,7 @@ boxes, including tramp SSH. Demonstrated below: &lt;code&gt;vagrant-up&lt;/code&
 
 &lt;p&gt;You need to have the vagrant layer installed for this to work (&lt;a href=&#34;https://github.com/syl20bnr/spacemacs/tree/master/layers/+tools/vagrant&#34;&gt;https://github.com/syl20bnr/spacemacs/tree/master/layers/+tools/vagrant&lt;/a&gt;). Add &lt;code&gt;vagrant&lt;/code&gt; to the existing &lt;code&gt;dotspacemacs-configuration-layers&lt;/code&gt; list in your &lt;code&gt;~/.spacemacs&lt;/code&gt; file.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;KindElderlyDiscus&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;KindElderlyDiscus&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -167,7 +167,7 @@ boxes, including tramp SSH. Demonstrated below: &lt;code&gt;vagrant-up&lt;/code&
 hitting &lt;code&gt;C-i&lt;/code&gt;. Useful for getting around large files or back to where you were
 just a second ago before a search!&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;IncredibleBlueGodwit&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;IncredibleBlueGodwit&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -191,7 +191,7 @@ just a second ago before a search!&lt;/p&gt;
 &lt;code&gt;SPC r y&lt;/code&gt; (&lt;code&gt;helm-show-kill-ring&lt;/code&gt;) and you&amp;rsquo;ll be able to search and insert from
 your yank ring history.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;GiganticArcticHarlequinbug&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;GiganticArcticHarlequinbug&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;(and a bit of meta: this post&amp;rsquo;s screencast is the last post)&lt;/p&gt;
@@ -214,7 +214,7 @@ your yank ring history.&lt;/p&gt;
       <description>&lt;p&gt;You can render a buffer as HTML (for publishing, sharing, nice viewing, etc) by
 running &lt;code&gt;htmlize-file&lt;/code&gt; (or &lt;code&gt;htmlize-region&lt;/code&gt; and family.)&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;CanineUnlinedInchworm&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;CanineUnlinedInchworm&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -242,7 +242,7 @@ of different criteria (e.g. commas or pipes.) You can also use &lt;code&gt;align
 arbitrary character and aligning on one of the predefined characters. As you can
 see, you can choose which behavior you want!&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;WickedAppropriateKrill&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;WickedAppropriateKrill&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -270,7 +270,7 @@ things like deleting, renaming, and copying files. A cool thing to note is that
 if you rename a file using &lt;code&gt;dired&lt;/code&gt;, the associated buffers open in emacs will
 also be renamed.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;KaleidoscopicObedientGecko&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;KaleidoscopicObedientGecko&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -295,7 +295,7 @@ navigate to the scratch buffer. Then enter &lt;code&gt;lisp-interaction-mode&lt;
 :&lt;/code&gt;. Then you&amp;rsquo;ll be in the right mode to whip up some lisp. To evaluate as in the
 demo, hit &lt;code&gt;C-x C-e&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;AnchoredAcademicAsianpiedstarling&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;AnchoredAcademicAsianpiedstarling&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -318,7 +318,7 @@ demo, hit &lt;code&gt;C-x C-e&lt;/code&gt;.&lt;/p&gt;
       <description>&lt;p&gt;Use &lt;code&gt;next-error&lt;/code&gt; (&lt;code&gt;SPC e n&lt;/code&gt;) and &lt;code&gt;previous-error&lt;/code&gt; (&lt;code&gt;SPC e p&lt;/code&gt;) to navigate to the
 next and previous flymake error in the current buffer.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;ShowyDisloyalIraniangroundjay&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;ShowyDisloyalIraniangroundjay&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -342,7 +342,7 @@ next and previous flymake error in the current buffer.&lt;/p&gt;
 Hit the shortcut and then the letter of a line in the popup and you&amp;rsquo;ll go there.
 You can get back quickly with &lt;code&gt;SPC `&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;FaintThriftyAlligator&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;FaintThriftyAlligator&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Note: as of this writing the function on this key is &lt;code&gt;evil-ace-jump-line-mode&lt;/code&gt;,
@@ -374,7 +374,7 @@ but it &lt;a href=&#34;https://github.com/syl20bnr/spacemacs/pull/2574&#34;&gt;w
 within a specific meaning. Especially useful with &lt;code&gt;semantic-mode&lt;/code&gt; turned on.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-title=true data-autoplay=true data-controls=true data-expand=true data-id=&#34;AmusedGraciousFishingcat&#34; &gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;gfyitem&#34; data-autoplay=true data-controls=true data-expand=true data-id=&#34;AmusedGraciousFishingcat&#34; &gt;&lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
