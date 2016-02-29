@@ -349,6 +349,9 @@ You can get back quickly with &lt;code&gt;SPC `&lt;/code&gt;&lt;/p&gt;
 but it &lt;a href=&#34;https://github.com/syl20bnr/spacemacs/pull/2574&#34;&gt;will be changing&lt;/a&gt; to
 &lt;code&gt;avy-goto-line&lt;/code&gt; in the next release.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Update February 2016&lt;/strong&gt;: &lt;code&gt;SPC l&lt;/code&gt; is now the new layouts engine. This
+functionality is now located at &lt;code&gt;SPC y&lt;/code&gt;. Thanks Caolite O&amp;rsquo;Connor for the catch!&lt;/p&gt;
+
 &lt;p&gt;
 
 &lt;div class=&#34;credit&#34;&gt;
@@ -357,9 +360,6 @@ but it &lt;a href=&#34;https://github.com/syl20bnr/spacemacs/pull/2574&#34;&gt;w
     &lt;p&gt;If you&#39;ve got a tip you&#39;d like to see here, &lt;a href=&#34;/submit&#34;&gt;submit it&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Update February 2016&lt;/strong&gt;: &lt;code&gt;SPC l&lt;/code&gt; is now the new layouts engine. This
-functionality is now located at &lt;code&gt;SPC y&lt;/code&gt;. Thanks Caolite O&amp;rsquo;Connor for the catch!&lt;/p&gt;
 </description>
     </item>
     
