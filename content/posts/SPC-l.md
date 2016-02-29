@@ -15,3 +15,6 @@ but it [will be changing](https://github.com/syl20bnr/spacemacs/pull/2574) to
 `avy-goto-line` in the next release.
 
 {{< githubCredit srid >}}
+
+**Update February 2016**: `SPC l` is now the new layouts engine. This
+functionality is now located at `SPC y`. Thanks Caolite O'Connor for the catch!
